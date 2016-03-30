@@ -1,0 +1,13 @@
+<suite name="ExpediaFlightTestSuite">
+<test name="ExpediaFlightBookingTests" preserve-order="true">
+<classes>
+	<class name="TestCases.selectFlights">
+		<methods>
+			<include name="simpleFlightTest" />
+			<include name="secondTestMethod" />
+			<!-- <include name="firstTestMethod" /> -->
+		</methods>
+	</class>
+</classes>
+</test>
+</suite>
