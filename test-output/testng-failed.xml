@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [ExpediaFlightTestSuite]">
+  <test name="ExpediaFlightBookingTests(failed)">
+    <classes>
+      <class name="TestCases.selectFlights">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="beforeClass"/>
+          <include name="simpleFlightTest" invocation-numbers="2"/>
+        </methods>
+      </class> <!-- TestCases.selectFlights -->
+    </classes>
+  </test> <!-- ExpediaFlightBookingTests(failed) -->
+</suite> <!-- Failed suite [ExpediaFlightTestSuite] -->
