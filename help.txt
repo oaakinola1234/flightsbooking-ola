@@ -3,3 +3,5 @@
 -- http://stackoverflow.com/questions/14156656/how-to-verify-element-present-or-visible-in-selenium-2-selenium-webdriver (assertions helper)
 
 --just check store in secure store in context menu  team  remote  configure push to upstream  change. problem solved D
+
+-- issue with the pom file http://stackoverflow.com/questions/8375423/missing-artifact-com-suntoolsjar

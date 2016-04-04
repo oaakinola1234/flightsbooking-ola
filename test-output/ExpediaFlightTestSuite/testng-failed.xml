@@ -8,7 +8,7 @@
           <include name="afterMethod"/>
           <include name="beforeMethod"/>
           <include name="beforeClass"/>
-          <include name="simpleFlightTest" invocation-numbers="2"/>
+          <include name="simpleFlightTest" invocation-numbers="0"/>
         </methods>
       </class> <!-- TestCases.selectFlights -->
     </classes>
