@@ -5,10 +5,9 @@
     <classes>
       <class name="TestCases.selectFlights">
         <methods>
-          <include name="afterMethod"/>
-          <include name="beforeMethod"/>
+          <include name="secondTestMethod"/>
           <include name="beforeClass"/>
-          <include name="simpleFlightTest" invocation-numbers="0"/>
+          <include name="simpleFlightTest"/>
         </methods>
       </class> <!-- TestCases.selectFlights -->
     </classes>
